@@ -1,4 +1,17 @@
 {
-    "user": [],
-    "posts": []
+  "user": [
+    {
+      "name": "tanzir ibne ali",
+      "age": "22",
+      "skill": "jr.frontend developer",
+      "id": 1
+    },
+    {
+      "name": "robiul ibne ali",
+      "age": "25",
+      "skill": "jr.laravel developer",
+      "id": 2
+    }
+  ],
+  "posts": []
 }
