@@ -13,5 +13,46 @@
       "id": 2
     }
   ],
-  "products": []
+  "products": [
+    {
+      "id": "678c87a2a0065a93d07a11dbd9eba",
+      "name": "Smartheart Adult Tuna and Shrimp Cat Food 3kg",
+      "price": "150",
+      "qty": "10",
+      "published": true,
+      "image": "https://i.pinimg.com/736x/63/35/82/633582536f09ca3ed2c1d57795777030.jpg",
+      "createdAt": 1737263010462,
+      "updatedAt": null
+    },
+    {
+      "id": "678c87e64c843d33d79a124d099d0",
+      "name": "Toro Toro Cat Soup Chicken and Katsuobushi 15g x5pcs",
+      "price": "300",
+      "qty": "10",
+      "published": true,
+      "image": "https://i.pinimg.com/736x/c9/44/4d/c9444df40f80c2017bf8291dbca4c51b.jpg",
+      "createdAt": 1737263078625,
+      "updatedAt": null
+    },
+    {
+      "id": "678c8863ab7328c8d8ef369cc99d5",
+      "name": "Proline Bentonite Cat Litter Lavender Flavour 5ltr",
+      "price": "544",
+      "qty": "5",
+      "published": true,
+      "image": "https://i.pinimg.com/736x/2f/7c/c2/2f7cc27957c3ec355b60991e36920ca3.jpg",
+      "createdAt": 1737263203263,
+      "updatedAt": null
+    },
+    {
+      "id": "678c8896451ccf9ba43a2934786e6",
+      "name": "Gorgeous German Shepherds",
+      "price": "2000",
+      "qty": "3",
+      "published": true,
+      "image": "https://i.pinimg.com/736x/84/81/6f/84816f7ecf0a53b64c3fa69df3d79199.jpg",
+      "createdAt": 1737263254447,
+      "updatedAt": null
+    }
+  ]
 }
